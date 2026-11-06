@@ -35,7 +35,7 @@ All numbers are means over 20 stratified 70/30 splits (see `results/`).
 
 ## How to run
 
-**Google Colab**
+**Google Colab** (the notebook's first cell clones the repo automatically, so you can also just open the notebook in Colab and choose *Run all*)
 ```python
 !git clone https://github.com/Vinayak069/id3-decision-trees
 %cd id3-decision-trees
