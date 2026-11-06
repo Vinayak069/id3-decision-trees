@@ -1,0 +1,4 @@
+criterion,id_code_tests,accuracy,acc_se,nodes
+gain,1.0,0.9553,0.0019,171.45
+gain ratio,0.0,1.0,0.0,13.0
+"gain, binary subsets",1.0,0.9772,0.0037,12.7

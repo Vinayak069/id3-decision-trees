@@ -1,0 +1,14 @@
+ID3 on 2000 simulated objects recovers the generating tree exactly: True
+
+A1 = a:
+|   A2 = a: P  (n=226)
+|   A2 = b: N  (n=215)
+|   A2 = c: P  (n=202)
+A1 = b: P  (n=677)
+A1 = c:
+|   A3 = a: N  (n=241)
+|   A3 = b: N  (n=224)
+|   A3 = c:
+|   |   A4 = a: P  (n=73)
+|   |   A4 = b: N  (n=69)
+|   |   A4 = c: N  (n=73)

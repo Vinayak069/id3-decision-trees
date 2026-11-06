@@ -1,0 +1,11 @@
+dataset,file,type,objects,attributes,values per attribute,classes,unknown values
+Saturday mornings (paper Table 1),real/weather_quinlan1986.csv,real,14,4,2-3,"P 9, N 5",0
+Chess endgame KR vs KP (UCI),real/chess_kr_vs_kp.csv,real,3196,36,2-3,"won 1669, nowin 1527",0
+Mushroom (UCI),real/mushrooms.csv,real,8124,22,1-12,"e 4208, p 3916",2480
+Congressional votes 1984 (UCI),real/house_votes_84.csv,real,435,16,3-3,"democrat 267, republican 168",392
+Car Evaluation (UCI),real/car_evaluation.csv,real,1728,6,3-4,"unacc 1210, acc 384, good 69, vgood 65",0
+Tic-tac-toe endgame (UCI),real/tic_tac_toe.csv,real,958,9,3-3,"positive 626, negative 332",0
+"Breast cancer, Ljubljana (UCI)",real/breast_cancer_ljubljana.csv,real,286,9,2-11,"no-recurrence-events 201, recurrence-events 85",9
+"Breast cancer, Wisconsin (UCI)",real/breast_cancer_wisconsin.csv,real,569,30,continuous,"benign 357, malignant 212",0
+Simulated: known depth-3 tree,simulated/sim_tree_2000.csv,simulated,2000,10,3-3,"P 1178, N 822",0
+Simulated + 150-valued id_code,simulated/sim_with_id_600.csv,simulated,600,11,3-150,"P 339, N 261",0

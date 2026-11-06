@@ -1,0 +1,15 @@
+no,outlook,temperature,humidity,windy,class
+1,sunny,hot,high,false,N
+2,sunny,hot,high,true,N
+3,overcast,hot,high,false,P
+4,rain,mild,high,false,P
+5,rain,cool,normal,false,P
+6,rain,cool,normal,true,N
+7,overcast,cool,normal,true,P
+8,sunny,mild,high,false,N
+9,sunny,cool,normal,false,P
+10,rain,mild,normal,false,P
+11,sunny,mild,normal,true,P
+12,overcast,mild,high,true,P
+13,overcast,hot,normal,false,P
+14,rain,mild,high,true,N

@@ -1,0 +1,4 @@
+dataset,Quinlan Sec. 6 (mean),Quinlan Sec. 6 (se),unknown as a value (mean),unknown as a value (se),most common value (mean),most common value (se)
+votes,0.94,0.0049,0.9377,0.0037,0.9319,0.0049
+mushroom,1.0,0.0,1.0,0.0,1.0,0.0
+bcl,0.668,0.0082,0.6733,0.0095,0.6645,0.0092

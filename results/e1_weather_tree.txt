@@ -1,0 +1,16 @@
+I(9,5) = 0.9403 bits (paper 0.940)
+
+ID3 tree (gain):
+outlook = overcast: P  (n=4)
+outlook = rain:
+|   windy = false: P  (n=3)
+|   windy = true: N  (n=2)
+outlook = sunny:
+|   humidity = high: N  (n=3)
+|   humidity = normal: P  (n=2)
+
+Training accuracy 1.000; nodes 8, leaves 5
+
+With the 99% chi-square test the tree is a single leaf:
+-> P  N: 5, P: 9
+(14 objects are too few to reject independence)

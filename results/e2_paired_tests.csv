@@ -1,0 +1,34 @@
+dataset,comparison,mean_diff_pts,wins,ties,losses,t,p_value
+chess,ID3 subsets (Sec. 7) - ID3 (gain),0.073,6,13,1,0.733,0.4725
+chess,ID3 subsets (Sec. 7) - CART (sklearn),0.0,1,17,2,0.0,1.0
+chess,ID3 (gain) - CART (sklearn),-0.073,2,11,7,-0.7135,0.4842
+chess,ID3 + chi2 99% - ID3 (gain),-0.219,1,2,17,-1.9991,0.0601
+chess,ID3 (gain ratio) - ID3 (gain),0.1095,9,7,4,0.5182,0.6103
+mushroom,ID3 subsets (Sec. 7) - ID3 (gain),0.0,0,20,0,0.0,1.0
+mushroom,ID3 subsets (Sec. 7) - CART (sklearn),0.0082,2,18,0,0.4697,0.6439
+mushroom,ID3 (gain) - CART (sklearn),0.0082,2,18,0,0.4697,0.6439
+mushroom,ID3 + chi2 99% - ID3 (gain),0.0,0,20,0,0.0,1.0
+mushroom,ID3 (gain ratio) - ID3 (gain),0.0,0,20,0,0.0,1.0
+votes,ID3 subsets (Sec. 7) - ID3 (gain),0.0,0,20,0,0.0,1.0
+votes,ID3 subsets (Sec. 7) - CART (sklearn),0.2692,9,4,7,0.2205,0.8279
+votes,ID3 (gain) - CART (sklearn),0.2692,9,4,7,0.2205,0.8279
+votes,ID3 + chi2 99% - ID3 (gain),0.7308,10,2,8,0.5244,0.6061
+votes,ID3 (gain ratio) - ID3 (gain),-0.6154,2,10,8,-0.8517,0.405
+car,ID3 subsets (Sec. 7) - ID3 (gain),4.8362,20,0,0,4.5739,0.0002
+car,ID3 subsets (Sec. 7) - CART (sklearn),0.6358,16,0,4,1.0887,0.2899
+car,ID3 (gain) - CART (sklearn),-4.2004,0,0,20,-3.6959,0.0015
+car,ID3 + chi2 99% - ID3 (gain),-6.0886,0,0,20,-8.5874,0.0
+car,ID3 (gain ratio) - ID3 (gain),0.6069,14,3,3,0.8973,0.3808
+tictactoe,ID3 subsets (Sec. 7) - ID3 (gain),8.4028,20,0,0,4.0112,0.0007
+tictactoe,ID3 subsets (Sec. 7) - CART (sklearn),-0.2778,7,5,8,-0.4149,0.6829
+tictactoe,ID3 (gain) - CART (sklearn),-8.6806,0,0,20,-3.7562,0.0013
+tictactoe,ID3 + chi2 99% - ID3 (gain),-8.316,0,0,20,-3.0911,0.006
+tictactoe,ID3 (gain ratio) - ID3 (gain),1.4236,16,4,0,1.495,0.1513
+bcl,ID3 subsets (Sec. 7) - ID3 (gain),0.2907,8,3,9,0.0954,0.925
+bcl,ID3 subsets (Sec. 7) - CART (sklearn),-1.3953,9,1,10,-0.4764,0.6393
+bcl,ID3 (gain) - CART (sklearn),-1.686,5,3,12,-0.5,0.6228
+bcl,ID3 + chi2 99% - ID3 (gain),6.686,17,2,1,2.271,0.035
+bcl,ID3 (gain ratio) - ID3 (gain),2.4419,14,0,6,0.6908,0.498
+wdbc,ID3 (gain) - CART (sklearn),-0.0,7,6,7,-0.0,1.0
+wdbc,ID3 + chi2 99% - ID3 (gain),0.2047,9,8,3,0.3548,0.7267
+wdbc,ID3 (gain ratio) - ID3 (gain),-1.345,2,1,17,-1.4047,0.1763

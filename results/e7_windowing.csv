@@ -1,0 +1,5 @@
+dataset,method,objects_used,nodes,train_errors,test_accuracy,seconds
+chess,direct,2237,85,0,0.9885,0.2204
+chess,windowing (100 + 50 per round),304,76,0,0.9896,0.8718
+mushroom,direct,5687,38,0,1.0,0.0852
+mushroom,windowing (100 + 50 per round),288,37,0,1.0,0.4325

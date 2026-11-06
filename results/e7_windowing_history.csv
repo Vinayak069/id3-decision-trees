@@ -1,0 +1,13 @@
+iteration,window,errors,dataset
+0,100,217,chess
+1,150,224,chess
+2,200,80,chess
+3,250,33,chess
+4,283,17,chess
+5,300,4,chess
+6,304,0,chess
+0,100,166,mushroom
+1,150,58,mushroom
+2,200,99,mushroom
+3,250,38,mushroom
+4,288,0,mushroom
