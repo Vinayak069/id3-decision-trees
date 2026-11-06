@@ -32,8 +32,6 @@ All numbers are means over 20 stratified 70/30 splits (see `results/`).
 | `results/`, `figures/` | Outputs of `experiments.py`. |
 | `ID3_Slides.pptx`, `ID3_Slides.pdf` | The 8-slide presentation. |
 | `ID3_Project_Submission.pdf` | The consolidated PDF: slides, then data details, all outputs and the code listing. |
-| `VIVA_PREP.md` | Derivations and likely viva questions. |
-| `build_scripts/` | Scripts that build the notebook, slides and PDF appendix. |
 
 ## How to run
 
