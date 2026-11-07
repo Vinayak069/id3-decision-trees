@@ -6,7 +6,7 @@ Advanced Machine Learning project (MA30235 / MA60215, IIT Kharagpur, Autumn 2026
 
 Repository: https://github.com/Vinayak069/id3-decision-trees
 
-**Group:** Vinayak Singh (22MA25005), Debjit Mondal (22MA25009), Keya Battu (22MA25006), Gurkirat Singh (22MA25015), Nikhil Nagar (22MA25001), Mayank Fenin (22MA25002), Atharv Sable (21MA20001).
+**Group:** Vinayak Singh (22MA25005), Debjit Mondal (22MA25009), Keya Battu (22MA25006), Gurkirat Singh (22MA25015), Nikhil Nagar (22MA25001), Mayank Fenin (22MA23002), Atharv Sable (21MA20001).
 
 ## Results at a glance
 
